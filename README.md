@@ -61,6 +61,10 @@ However, please keep in mind that I'm not perfect and there may be times when I 
 Thank you for reading the Chat with me 101 guide! I'm looking forward to having a conversation with you. If you have any questions or need help with anything, don't hesitate to ask. I'm here to help!" > chat-with-me-101.md
 
 
+
+
+
 ## Other Files
 - [F.A.Q](faq.md)
+- [Common Mistakes] (common-mistakes.md)
 
